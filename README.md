@@ -1,2 +1,2 @@
 # tourism-website
-tourism website using html and bootsrap only
+tourism website using html and bootstrap only
